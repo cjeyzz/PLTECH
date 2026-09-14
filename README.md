@@ -1,6 +1,6 @@
  PLTECH
 
-This repository contains my PLTECH (Professional Life and Technology) activities, assignments, and other school-related requirements.
+This repository contains my PLTECH ( Platform Technology) activities, assignments, and other school-related requirements.
 
  Contents
 
